@@ -2,5 +2,5 @@
 
 - 🚀 Currently working on C# symbolic math library
 - 🏫 Second year Comp Sci student at UTS
-- 🏢 Junior software dev at WiseTech global
+- 🏢 Software cadet
 - 📫 Email me at inquisitor.mks@gmail.com
