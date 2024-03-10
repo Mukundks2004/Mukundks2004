@@ -1,4 +1,4 @@
-# Mukund's Github
+# Mukund's GitHub
 
 - 🧭 [About me](https://mukundks2004.github.io/)
 - 🚀 Currently working on C# symbolic math library
