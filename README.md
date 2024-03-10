@@ -4,3 +4,4 @@
 - 🏫 Second year Comp Sci student at UTS
 - 🏢 Software cadet
 - 📫 Email me at inquisitor.mks@gmail.com
+- 🧭 [Visit my website!](Mukundks2004.github.io)
