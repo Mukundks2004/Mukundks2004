@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mukundks2004](https://github.com/Mukundks2004)
 
-- 💬 Ask me about **my flamethrower**
+- 💬 Ask me about **My Flamethrower!!**
 
 - 📫 How to reach me **mukund.k.srinivasan@student.uts.edu.au**
 
